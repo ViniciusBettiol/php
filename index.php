@@ -1,7 +1,9 @@
 <?php
 
-	echo "Olá Mundo 456!!";
 
-	echo "Olá Digital!!";
+	echo "Olá Mundo!!";
+
+	echo "Olá Canoa Digital!!";
+
 
 ?>
